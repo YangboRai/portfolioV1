@@ -1,0 +1,135 @@
+
+/* ------------ SERVICES ------------*/
+
+
+#services{
+
+	width: 80%;
+	padding: 0 10%;
+	height: 310px;
+	background: #f2f5f5;
+
+}
+
+#services h1{
+	padding: 40px 0px 20px 0px;
+	color:#474343;
+}
+
+.one-3 h3{
+	margin: 10px 0px;
+	color:#474343;
+}
+
+.one-3 p{
+font-style: italic;
+}
+.one-3{
+
+	color:#302f2f;
+	line-height: 140%;
+	width:29.33%;
+	float: left;
+	text-align: center;
+	font-size: 90%;
+	margin: 2%;
+}
+
+#services-logo{
+	color: #6797e0;
+	font-size: 30px;}
+
+
+/* ------------- Portfolio section ------------*/
+
+#portfolio{
+
+	width: 100%;
+	
+
+
+}
+
+#portfolio h1{
+	text-align: center;
+	padding-top: 20px; 
+	color: #474343;
+
+}
+
+#portfolio p{
+	text-align: center;
+	padding-top: 20px; 
+	font-style: italic;
+		color: #474343;
+
+}
+
+.portfolio-list{
+
+}
+
+.of{
+	width:45%;
+	float: left;
+	margin: 2% 2.5%;
+	overflow: hidden;
+
+}
+
+.one-2{
+	width:100%;
+	background-size: cover;
+	float: left;
+	transition: all 1s;
+
+}
+
+.two-2{
+	width:100%;
+	float: right;
+	display: none;
+	transition: all 1s;
+
+}
+
+
+.two-2:hover, .one-2:hover{
+	cursor: pointer;
+	opacity: .9;
+	transform: scale(1.1);
+}
+
+
+#more{
+	text-align: center;
+	width: 100%;
+	padding: 10px 0px;
+
+}
+
+
+.btn{
+	margin: 0px 0 10px 0px;
+	padding:10px 20px;
+	transition: all .5s;
+	border-radius: 8px;
+	font-size: 90%;
+	background:#336699;
+	color: white;
+	text-shadow: 0px 0px 10px black;
+}
+
+.btn:hover{
+	cursor: pointer;
+	background:black;
+	color: white;
+
+}
+
+/* ------------- Portfolio end section ------------*/
+
+
+
+
+
